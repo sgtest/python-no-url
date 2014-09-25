@@ -1,3 +1,2 @@
-import json
-
-json.dumps([])
+def foo():
+    pass
